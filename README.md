@@ -4,8 +4,8 @@ Stuff i found out abt Tweaking Windows. May include fixes for ur problems
 
 ### Cant change Profile Picture anymore.
 
-Well. Thats easy to fix. \n
-`Task Scheduler -> Microsoft -> Windows -> Shell -> Enable CreateObjectTask`
+Well. Thats easy to fix.
+``Task Scheduler -> Microsoft -> Windows -> Shell -> Enable CreateObjectTask``
 
 ### Cannot get Store to download some Apps?
 
