@@ -22,3 +22,7 @@ Well. Thats easy to fix.
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Mup -> Turn it on`
 
 Then LxssManager Should work again
+
+### Auto Regedit Backup is busted.
+
+`Task Scheduler -> Microsoft -> Windows -> Regedit -> Enable Entry if disabled`
