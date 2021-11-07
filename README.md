@@ -26,3 +26,13 @@ Then LxssManager Should work again
 ### Auto Regedit Backup is busted.
 
 `Task Scheduler -> Microsoft -> Windows -> Regedit -> Enable Entry if disabled`
+
+### Other Store Fix
+
+Download ``https://www.tweaking.com/content/page/windows_repair_all_in_one.html``
+Select Portable and open it.
+In the Program itself, select Repairs and continue.
+Then Select all repairs and deselect them.
+After that select 
+```1. Register System Files, 2. Repair Firewall, 3. Repair Hosts File, 4. Repair Network, 5. Repair Proxy Settings, 6. Repair App Store (Complete Reset), 7. Window Component Storage```.
+After that give it some time, reboot and it should work again.
