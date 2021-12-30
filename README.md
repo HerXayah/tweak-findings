@@ -27,6 +27,10 @@ Then LxssManager Should work again
 
 `Task Scheduler -> Microsoft -> Windows -> Regedit -> Enable Entry if disabled`
 
+### I cant defrag anymore
+
+`Start Defrag Service -> Open Cmd as Admin -> chkdsk *drive*: /f /r -> N -> Y -> Restart`
+
 ### Other Store Fix
 
 Download ``https://www.tweaking.com/content/page/windows_repair_all_in_one.html``
