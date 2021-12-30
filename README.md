@@ -43,4 +43,4 @@ In the Program itself, select Repairs and continue.\
 Then Select all repairs and deselect them.\
 After that select \
 ```1. Register System Files, 2. Repair Firewall, 3. Repair Hosts File, 4. Repair Network, 5. Repair Proxy Settings, 6. Repair App Store (Complete Reset), 7. Window Component Storage```.\
-After that give it some time, reboot and it should work again.\
+After that give it some time, reboot and it should work again.
