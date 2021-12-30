@@ -2,40 +2,40 @@
 Stuff i found out abt Tweaking Windows. May include fixes for ur problems
 
 
-## Intro
+### Intro
 
 So you've ran some Windows Script from the Internet or even from trusted Stuff and now stuff you like to do doesnt work anymore?\
 Well heres some of my finding to WHY stuff doesnt work anymore.
 
 
-### Cant change Profile Picture anymore.
+## Cant change Profile Picture anymore.
 
 Well. Thats easy to fix.\
 ``Task Scheduler -> Microsoft -> Windows -> Shell -> Enable CreateObjectTask``
 
-### Cannot get Store to download some Apps?
+## Cannot get Store to download some Apps?
 
 `Task Scheduler -> Microsoft -> Windows -> Subscription -> Enable Both Entries if disabled`
 
-### Welp. cant Install and use WSL
+## Welp. cant Install and use WSL
 
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Mup -> Turn it on`
 
 Then LxssManager Should work again
 
-### Auto Regedit Backup is busted.
+## Auto Regedit Backup is busted.
 
 `Task Scheduler -> Microsoft -> Windows -> Regedit -> Enable Entry if disabled`
 
-### I cant defrag anymore
+## I cant defrag anymore
 
 `Start Defrag Service -> Open Cmd as Admin -> chkdsk *drive*: /f /r -> N -> Y -> Restart`
 
-### I cant see the Internet Icon anymore
+## I cant see the Internet Icon anymore
 
 `CMD as Admin -> sc config "RmSvc" start=manual`
 
-### Other Store Fix
+## Other Store Fix
 
 Download ``https://www.tweaking.com/content/page/windows_repair_all_in_one.html``\
 Select Portable and open it.\
