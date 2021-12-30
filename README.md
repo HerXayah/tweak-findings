@@ -31,6 +31,10 @@ Then LxssManager Should work again
 
 `Start Defrag Service -> Open Cmd as Admin -> chkdsk *drive*: /f /r -> N -> Y -> Restart`
 
+### I cant see the Internet Icon anymore
+
+`CMD as Admin -> sc config "RmSvc" start=manual
+
 ### Other Store Fix
 
 Download ``https://www.tweaking.com/content/page/windows_repair_all_in_one.html``
