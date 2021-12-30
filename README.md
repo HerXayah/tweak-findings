@@ -4,7 +4,7 @@ Stuff i found out abt Tweaking Windows. May include fixes for ur problems
 
 ## Intro
 
-So you've ran some Windows Script from the Internet or even from trusted Stuff and now stuff you like to do doesnt work anympre?
+So you've ran some Windows Script from the Internet or even from trusted Stuff and now stuff you like to do doesnt work anymore?\
 Well heres some of my finding to WHY stuff doesnt work anymore.
 
 
