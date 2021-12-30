@@ -10,7 +10,7 @@ Well heres some of my finding to WHY stuff doesnt work anymore.
 
 ### Cant change Profile Picture anymore.
 
-Well. Thats easy to fix.
+Well. Thats easy to fix.\
 ``Task Scheduler -> Microsoft -> Windows -> Shell -> Enable CreateObjectTask``
 
 ### Cannot get Store to download some Apps?
