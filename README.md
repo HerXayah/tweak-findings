@@ -35,6 +35,15 @@ Then LxssManager Should work again
 
 `CMD as Admin -> sc config "RmSvc" start=manual`
 
+## Create new Recovery Partition
+
+Download Windows ISO and unpack it to a folder.\
+`Open CMD as Admin -> md c:\test -> dism /mount-image /imagefile:E:\UserFolders\Desktop\meow\sources\install.wim /index:1 /mountdir:C:\test\ /readonly`\
+then\
+`Go to C:\test\Windows\System32\Recovery -> copy the winRe.wim -> C:\Windows\System32\Recovery -> paste`\
+and at last\
+`reagentc /setreimage /path C:\windows\system32\recovery -> dism /unmount-image /mountdir:C:\test\ /discard -> reagentc /enable`
+
 ## Other Store Fix
 
 Download ``https://www.tweaking.com/content/page/windows_repair_all_in_one.html``\
