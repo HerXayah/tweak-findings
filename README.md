@@ -33,7 +33,7 @@ Then LxssManager Should work again
 
 ### I cant see the Internet Icon anymore
 
-`CMD as Admin -> sc config "RmSvc" start=manual
+`CMD as Admin -> sc config "RmSvc" start=manual`
 
 ### Other Store Fix
 
