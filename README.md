@@ -58,3 +58,7 @@ After that give it some time, reboot and it should work again.
 
 ```1. Go to Services -> Enable CDPSvc```
 
+## AMD Chipset Driver crashes after selecting?
+
+```Create New User -> Open the Exe and install it there.```
+
