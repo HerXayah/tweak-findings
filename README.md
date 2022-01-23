@@ -66,7 +66,5 @@ After that give it some time, reboot and it should work again.
 
 ## my FUCKING SUBSYSTEM WONT WORK BUT I HAVE ALL FUCKING FEATURES INSTALLED
 
-```1. Im facing this atm. So basically. Fucking. Enable. No-Page Exection back on your Motherboard if u have it disabled...\
-2. Also enable any Virtual Device Things in Device Manager and set the Server Service to Startup Manual aswell as any HyperV Services```
-
-
+```1. Im facing this atm. So basically. Fucking. Enable. No-Page Exection back on your Motherboard if u have it disabled...```\
+```2. Also enable any Virtual Device Things in Device Manager and set the Server Service to Startup Manual aswell as any HyperV Services```
