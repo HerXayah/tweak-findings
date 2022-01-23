@@ -62,3 +62,10 @@ After that give it some time, reboot and it should work again.
 
 ```Create New User -> Open the Exe and install it there.```
 
+### Rant Section
+
+## my FUCKING SUBSYSTEM WONT WORK BUT I HAVE ALL FUCKING FEATURES INSTALLED
+
+```1. Im facing this atm. So basically. Fucking. Enable. No-Page Exection back on your Motherboard if u have it disabled...```
+
+
