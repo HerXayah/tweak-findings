@@ -58,9 +58,12 @@ After that give it some time, reboot and it should work again.
 
 ```1. Go to Services -> Enable CDPSvc```
 
-## AMD Chipset Driver crashes after selecting?
+## AMD Chipset Driver crashes after opening?
 
-```Create New User -> Open the Exe and install it there.```
+Option 1: ```Create New User -> Open the Exe and install it there.```.\
+Option 2: ```Create New User -> Download AMD Cleanup Utility -> Reboot into safemode -> download Windows Uninstall Troubleshooter -> Uninstall everything AMD -> Run AMD Cleanup and reboot -> Download Driver and open CMD as Admin -> Input: START /WAIT *Admin Driver exe* /S -> Enter and Wait.```
+
+
 
 ### Rant Section
 
