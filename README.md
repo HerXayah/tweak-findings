@@ -64,7 +64,7 @@ Option 1: ```Create New User -> Open the Exe and install it there.```.\
 Option 2: ```Create New User -> Download AMD Cleanup Utility -> Reboot into safemode -> download Windows Uninstall Troubleshooter -> Uninstall everything AMD -> Run AMD Cleanup and reboot -> Download Driver and open CMD as Admin -> Input: START /WAIT *Admin Driver exe* /S -> Enter and Wait.```
 
 ## 0x80072EE7 in Windows Store
-Open Regedit >> ```Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache``` and set ``Start`` to 2.\
+Open Regedit >> ```Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache``` and set ``Start`` to 2
 
 ### Rant Section
 
